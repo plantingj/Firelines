@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="dessin.svg" sodipodi:version="0.32"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="800px" height="900px"
+	 viewBox="0 0 800 900" enable-background="new 0 0 800 900" xml:space="preserve">
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective10" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 526.18109 : 1" sodipodi:type="inkscape:persp3d" inkscape:persp3d-origin="372.04724 : 350.78739 : 1">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  id="perspective2447" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 526.18109 : 1" sodipodi:type="inkscape:persp3d" inkscape:persp3d-origin="372.04724 : 350.78739 : 1">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  showgrid="false" inkscape:cy="378.99408" inkscape:cx="722.18935" inkscape:zoom="0.56333333" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:window-y="-4" inkscape:window-x="-4" inkscape:window-height="712" inkscape:window-width="1024" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageshadow="2" inkscape:pageopacity="0.0">
+	</sodipodi:namedview>
+<path fill="#010101" d="M558.964,550.414h-64.745v-39.622V263.41c0-52.183-42.516-94.701-94.7-94.701s-94.701,42.518-94.701,94.701
+	v247.382v39.622h-64.745c-46.384,0-84.072,37.685-84.072,84.07s37.688,84.07,84.072,84.07s84.072-37.685,84.072-84.07V509.828
+	V312.694h151.714v197.134v123.69c0,46.384,37.687,84.072,84.07,84.072S644,679.902,644,633.519S605.348,550.414,558.964,550.414z
+	 M303.851,634.484c0,35.754-28.99,64.743-64.742,64.743c-35.755,0-64.745-28.989-64.745-64.743c0-35.753,28.99-64.743,64.745-64.743
+	h64.742V634.484z M323.177,293.368v-30.921c0-38.654,28.99-70.544,66.678-75.376v0.967v28.99c0,5.797,3.865,9.664,9.664,9.664
+	c5.798,0,9.663-3.866,9.663-9.664v-28.99v-0.967c37.687,4.832,66.677,36.722,66.677,75.376v30.921H323.177z M558.964,699.229
+	c-35.755,0-64.745-28.99-64.745-64.743v-64.743h64.745c35.755,0,64.745,28.989,64.745,64.743
+	C623.709,670.239,594.719,699.229,558.964,699.229z"/>
+</svg>
